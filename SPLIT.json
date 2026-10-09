@@ -1,0 +1,114 @@
+{
+  "source": "https://github.com/atosonik/coverswap.git",
+  "project": "coverswap",
+  "piece": 8,
+  "piece_count": 9,
+  "repo": "atosonik/coverswap-zip-08",
+  "zips": [
+    "coverswap-029.zip",
+    "coverswap-030.zip",
+    "coverswap-031.zip",
+    "coverswap-032.zip"
+  ],
+  "restore": "python chunker.py merge",
+  "repos": [
+    {
+      "repo": "atosonik/coverswap-zip-01",
+      "url": "https://github.com/atosonik/coverswap-zip-01",
+      "zips": [
+        "coverswap-001.zip",
+        "coverswap-002.zip",
+        "coverswap-003.zip",
+        "coverswap-004.zip"
+      ],
+      "bytes": 368503720
+    },
+    {
+      "repo": "atosonik/coverswap-zip-02",
+      "url": "https://github.com/atosonik/coverswap-zip-02",
+      "zips": [
+        "coverswap-005.zip",
+        "coverswap-006.zip",
+        "coverswap-007.zip",
+        "coverswap-008.zip"
+      ],
+      "bytes": 367449330
+    },
+    {
+      "repo": "atosonik/coverswap-zip-03",
+      "url": "https://github.com/atosonik/coverswap-zip-03",
+      "zips": [
+        "coverswap-009.zip",
+        "coverswap-010.zip",
+        "coverswap-011.zip",
+        "coverswap-012.zip"
+      ],
+      "bytes": 367849969
+    },
+    {
+      "repo": "atosonik/coverswap-zip-04",
+      "url": "https://github.com/atosonik/coverswap-zip-04",
+      "zips": [
+        "coverswap-013.zip",
+        "coverswap-014.zip",
+        "coverswap-015.zip",
+        "coverswap-016.zip"
+      ],
+      "bytes": 367661416
+    },
+    {
+      "repo": "atosonik/coverswap-zip-05",
+      "url": "https://github.com/atosonik/coverswap-zip-05",
+      "zips": [
+        "coverswap-017.zip",
+        "coverswap-018.zip",
+        "coverswap-019.zip",
+        "coverswap-020.zip"
+      ],
+      "bytes": 368086936
+    },
+    {
+      "repo": "atosonik/coverswap-zip-06",
+      "url": "https://github.com/atosonik/coverswap-zip-06",
+      "zips": [
+        "coverswap-021.zip",
+        "coverswap-022.zip",
+        "coverswap-023.zip",
+        "coverswap-024.zip"
+      ],
+      "bytes": 368086936
+    },
+    {
+      "repo": "atosonik/coverswap-zip-07",
+      "url": "https://github.com/atosonik/coverswap-zip-07",
+      "zips": [
+        "coverswap-025.zip",
+        "coverswap-026.zip",
+        "coverswap-027.zip",
+        "coverswap-028.zip"
+      ],
+      "bytes": 368086936
+    },
+    {
+      "repo": "atosonik/coverswap-zip-08",
+      "url": "https://github.com/atosonik/coverswap-zip-08",
+      "zips": [
+        "coverswap-029.zip",
+        "coverswap-030.zip",
+        "coverswap-031.zip",
+        "coverswap-032.zip"
+      ],
+      "bytes": 368086936
+    },
+    {
+      "repo": "atosonik/coverswap-zip-09",
+      "url": "https://github.com/atosonik/coverswap-zip-09",
+      "zips": [
+        "coverswap-033.zip",
+        "coverswap-034.zip",
+        "coverswap-035.zip"
+      ],
+      "bytes": 264712647
+    }
+  ]
+}
